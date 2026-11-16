@@ -53,4 +53,4 @@ src/
   index.css       Design tokens & global styles
 tailwind.config.js  Color palette, fonts, animation tokens
 ```
-.....
+
